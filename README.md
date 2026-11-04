@@ -61,8 +61,6 @@ Neste trabalho, investigamos esse erro como cientistas de dados forenses: limpam
 
 ## Referências
 
-- SQUIRE, P. Why the 1936 Literary Digest poll failed. *Public Opinion Quarterly*, v. 52, n. 1, p. 125–133, 1988. https://doi.org/10.1086/269085
-- LOHR, S. L.; BRICK, J. M. Roosevelt predicted to win: revisiting the 1936 Literary Digest poll. *Statistics, Politics and Policy*, v. 8, n. 1, p. 65–84, 2017. https://doi.org/10.1515/spp-2016-0006
 - Resultados oficiais: [eleição de 1936](https://en.wikipedia.org/wiki/1936_United_States_presidential_election) e [eleição de 1932](https://en.wikipedia.org/wiki/1932_United_States_presidential_election) (Wikipedia).
 
 ## Arquivos deste repositório
